@@ -1,4 +1,4 @@
-site_name: Viktor Antosik
+site_name: Digital-V
 site_url: https://mydomain.org/mysite
 
 
@@ -7,18 +7,18 @@ theme:
 
   logo: assets/logo.png
   name: material
-
+ 
   language: fr
 
 
   palette:
-
+      
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-
+        
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
@@ -49,6 +49,7 @@ theme:
     - search.highlight
     - search.share
     - navigation.indexes 
+    - toc.follow
 
 plugins:
 
@@ -63,7 +64,8 @@ nav :
 - Projets :  
   - projets/index.md 
   - Robot détecteur d'obstacles: projets/projet1.md
-  - projet 2 : projets/projet2.md
+  - Volets automatiques : projets/projet2.md
+  - Bras robot : projets/projet3.md
 - Tags: tags.md 
 
 

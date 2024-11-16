@@ -19,28 +19,27 @@ N'hésitez pas à parcourir, et si l'un de mes projets vous inspire ou suscite v
 
     [:octicons-arrow-right-24: En savoir plus](projet1.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   __Volets auomatiques__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    j'ai modifié une telcomande afin de fermer mes velux et volets automatiquement le soir ou de les ouvrir le matin. Ou les contoller à parir de mon telephone
 
-    [:octicons-arrow-right-24: Reference](#)
+    [:octicons-arrow-right-24: En savoir plus](projet2.md)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-    __Bras robot qui joue au echec__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Bras robot qui sait jouer au echec grace à une camera
+    [:octicons-arrow-right-24: En savoir plus](projet3.md)
 
-    [:octicons-arrow-right-24: License](#)
+-   __Panneau solaire__
+
+    ---
+
+    Home Assistant permet de voir la productionen direct
+
+    [:octicons-arrow-right-24: En savoir plus](#)
 
 </div>
