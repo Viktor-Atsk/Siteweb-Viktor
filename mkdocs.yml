@@ -62,11 +62,17 @@ nav :
 - Accueil: index.md
 - Projets :  
   - projets/index.md 
-  - projet 1 : projets/projets 1.md
-  - projet 2 : projets/projets 2.md
+  - Robot détecteur d'obstacles: projets/projet1.md
+  - projet 2 : projets/projet2.md
 - Tags: tags.md 
 
 
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   generator: false
