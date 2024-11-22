@@ -1,10 +1,10 @@
-site_name: Digital-V
+site_name: Digital V
 site_url: https://mydomain.org/mysite
 
 
 
 theme:
-
+  favicon: assets/favicon.jpg
   logo: assets/logo.png
   name: material
  
@@ -15,6 +15,7 @@ theme:
       
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
+      
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
@@ -22,6 +23,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
+      primary: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -29,6 +31,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -66,6 +69,12 @@ nav :
   - Robot détecteur d'obstacles: projets/projet1.md
   - Volets automatiques : projets/projet2.md
   - Bras robot : projets/projet3.md
+  - Panneau solaire : projets/projet4.md
+  - Musiques : projets/projet5.md
+  - Sites Webs : projets/projet6.md
+  - Chaîne Youtube : projets/projet7.md
+  - IA : projets/projet8.md
+  
 - Tags: tags.md 
 
 

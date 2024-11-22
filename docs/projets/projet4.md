@@ -1,0 +1,1 @@
+# Panneau solaire monté soit même
