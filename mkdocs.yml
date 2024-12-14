@@ -66,6 +66,7 @@ nav :
 - Accueil: index.md
 - Projets :  
   - projets/index.md 
+  - Mon Matériel : projets/tools.md
   - Robot détecteur d'obstacles: projets/projet1.md
   - Volets automatiques : projets/projet2.md
   - Bras robot : projets/projet3.md

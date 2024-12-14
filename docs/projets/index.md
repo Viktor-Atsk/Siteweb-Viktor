@@ -1,3 +1,8 @@
+---
+tags :
+  - projet
+---
+
 # Mes Projets
 
 Bienvenue dans ma section Projets, où vous découvrirez un aperçu des réalisations qui reflètent mes compétences, ma créativité et ma passion. Que ce soit des solutions innovantes, des conceptions uniques ou des défis techniques relevés, chaque projet présenté ici a été une opportunité d'apprentissage et de dépassement.
